@@ -1,26 +1,14 @@
-[28464:29508:0114/171107.054:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28464:32972:0114/171107.111:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28464:29508:0114/171107.125:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28464:29508:0114/171111.158:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[28464:29508:0114/171112.637:ERROR:device_event_log_impl.cc(196)] [17:11:12.545] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[11676:19252:0114/171135.339:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11676:5724:0114/171135.382:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11676:19252:0114/171135.396:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11676:19252:0114/171138.624:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[11676:19252:0114/171141.110:ERROR:device_event_log_impl.cc(196)] [17:11:40.776] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[11676:19252:0114/171150.738:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[27068:19100:0114/171153.827:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[27068:20620:0114/171153.900:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[27068:19100:0114/171153.918:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27068:19100:0114/171158.783:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[27068:19100:0114/171204.049:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-2A264D35B64A88709C18C5BA779E3A9D (main) will be ignored
-[27068:19100:0114/171204.049:ERROR:device_event_log_impl.cc(196)] [17:12:02.967] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[33148:33032:0114/171204.141:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from LoadNelPoliciesAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_reporting_and_nel_store.cc:1325 to client_task_runner_.
-[27068:19100:0114/171204.241:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[18732:27964:0114/180139.815:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18732:30732:0114/180139.887:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18732:27964:0114/180139.904:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18732:27964:0114/180143.965:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[18732:27964:0114/180145.611:ERROR:device_event_log_impl.cc(196)] [18:01:45.329] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[18732:27964:0114/181016.625:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[28464:29508:0114/184122.605:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17420:24364:0115/131351.974:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17420:41216:0115/131352.029:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17420:24364:0115/131352.050:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17420:14664:0115/131354.259:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:14664:0115/131354.262:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:14664:0115/131354.263:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:14664:0115/131354.264:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:19608:0115/131354.534:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:19608:0115/131354.538:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14692:23376:0115/131355.792:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5654125DDC593CD8EBDA409373338822 will be ignored
+[17420:33592:0115/131400.555:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\bbowley2\Documents\Unreal Projects\ProgrammingBlueprints\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17420:24364:0115/131400.797:ERROR:device_event_log_impl.cc(196)] [13:14:00.462] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17420:24364:0115/133505.179:ERROR:device_event_log_impl.cc(196)] [13:35:05.131] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17420:24364:0115/144339.173:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
